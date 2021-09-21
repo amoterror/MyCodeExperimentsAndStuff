@@ -17,4 +17,4 @@ function objArr(name , anNa , anCh , anTy) {
 objArr('cat' , 'cat' , 'pat' ,'dat');
 objArr('dog', "F'in" , 'kick' , 'dat')
 
-animals
+console.log(animals)
